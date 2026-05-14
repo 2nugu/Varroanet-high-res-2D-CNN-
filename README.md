@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1217718218.svg)](https://doi.org/10.5281/zenodo.20176661)
+
 # Interpretable Deep Learning for Varroa Mite Detection
 
 **Multi-Resolution Grad-CAM++ Analysis with Channel Attention and Preprocessing Sensitivity for Interpretable *Varroa destructor* Detection**
